@@ -1,0 +1,10 @@
+Package: RRSF
+Type: Package
+Title: A reweighted random survival forest approach by integrating gene interactionn information
+Version: 1.0
+Date: 2018-06-18
+Author: Wei Liu
+Maintainer: Wei Liu <freelw@qq.com>
+Depends: igraph, Matrix, survival, randomForestSRC
+Description: Integration of gene interaction information into a reweighted random survival forest approach for accurate survival prediction and survival biomarker discovery.
+License: GPL(>=2)
